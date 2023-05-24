@@ -403,7 +403,7 @@
 /pt-BR/docs/Learn/Common_questions/Que_software_eu_preciso	/pt-BR/docs/Learn/Common_questions/Tools_and_setup/What_software_do_I_need
 /pt-BR/docs/Learn/Common_questions/Thinking_before_coding	/pt-BR/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding
 /pt-BR/docs/Learn/Common_questions/Upload_files_to_a_web_server	/pt-BR/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server
-/pt-BR/docs/Learn/Common_questions/Using_Github_pages	/pt-BR/docs/Learn/Common_questions/Tools_and_setup/Using_Github_pages
+/pt-BR/docs/Learn/Common_questions/Using_Github_pages	/pt-BR/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages
 /pt-BR/docs/Learn/Common_questions/What_are_browser_developer_tools	/pt-BR/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
 /pt-BR/docs/Learn/Common_questions/What_are_hyperlinks	/pt-BR/docs/Learn/Common_questions/Web_mechanics/What_are_hyperlinks
 /pt-BR/docs/Learn/Common_questions/What_is_a_domain_name	/pt-BR/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name
@@ -835,6 +835,8 @@
 /pt-BR/docs/Web/HTML/Controlando_verificacao_ortografica_em_formularios_HTML	/pt-BR/docs/Web/HTML/Global_attributes/spellcheck
 /pt-BR/docs/Web/HTML/Dicas_para_criar_páginas_HTML_de_carregamento_rápido	/pt-BR/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages
 /pt-BR/docs/Web/HTML/Element/Input/data	/pt-BR/docs/Web/HTML/Element/input/date
+/pt-BR/docs/Web/HTML/Element/applet	/pt-BR/docs/orphaned/Web/HTML/Element/applet
+/pt-BR/docs/Web/HTML/Element/blink	/pt-BR/docs/orphaned/Web/HTML/Element/blink
 /pt-BR/docs/Web/HTML/Element/content	/pt-BR/docs/Web/HTML/Element/slot
 /pt-BR/docs/Web/HTML/Element/conteúdo	/pt-BR/docs/Web/HTML/Element/slot
 /pt-BR/docs/Web/HTML/Element/figura	/pt-BR/docs/Web/HTML/Element/figure
@@ -937,6 +939,9 @@
 /pt-BR/docs/Web/Progressive_web_apps/Introduction	/pt-BR/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Introduction
 /pt-BR/docs/Web/Progressive_web_apps/Introdução	/pt-BR/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Introduction
 /pt-BR/docs/Web/SVG/Compatibility_sources	/pt-BR/docs/conflicting/Web/SVG
+/pt-BR/docs/Web/SVG/Element/altGlyph	/pt-BR/docs/orphaned/Web/SVG/Element/altGlyph
+/pt-BR/docs/Web/SVG/Element/altGlyphDef	/pt-BR/docs/orphaned/Web/SVG/Element/altGlyphDef
+/pt-BR/docs/Web/SVG/Element/altGlyphItem	/pt-BR/docs/orphaned/Web/SVG/Element/altGlyphItem
 /pt-BR/docs/Web/SVG/Element/animateColor	/pt-BR/docs/conflicting/Web/SVG/Element/animate
 /pt-BR/docs/Web/SVG/Element/texto	/pt-BR/docs/Web/SVG/Element/text
 /pt-BR/docs/Web/SVG/Intensivo_de_Namespaces	/pt-BR/docs/Web/SVG/Namespaces_Crash_Course
