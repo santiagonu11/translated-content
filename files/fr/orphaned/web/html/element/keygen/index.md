@@ -1,6 +1,6 @@
 ---
 title: <keygen>
-slug: Web/HTML/Element/keygen
+slug: orphaned/Web/HTML/Element/keygen
 tags:
   - Déprécié
   - Element
@@ -8,6 +8,7 @@ tags:
   - Reference
   - Web
 translation_of: Web/HTML/Element/keygen
+original_slug: Web/HTML/Element/keygen
 ---
 
 {{deprecated_header}}{{HTMLSidebar}}

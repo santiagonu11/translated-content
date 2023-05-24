@@ -1,16 +1,17 @@
 ---
-title: altGlyphItem
-slug: Web/SVG/Element/altGlyphItem
+title: altGlyphDef
+slug: orphaned/Web/SVG/Element/altGlyphDef
 tags:
   - Element
   - Reference
   - SVG
-translation_of: Web/SVG/Element/altGlyphItem
+translation_of: Web/SVG/Element/altGlyphDef
+original_slug: Web/SVG/Element/altGlyphDef
 ---
 
 {{SVGRef}}{{deprecated_header}}
 
-L'élément `altGlyphItem` fournit un ensemble de candidats pour la substitution de glyphes par l'élément {{ SVGElement("altGlyph") }}.
+L'élément `altGlyphDef` défini une représentation de substitution pour les glyphes.
 
 ## Contexte d'utilisation
 
@@ -30,7 +31,7 @@ _Aucun_
 
 ## Interface DOM
 
-Cet élément implémente l'interface [`SVGAltGlyphItemElement`](/fr/docs/Web/API/SVGAltGlyphItemElement).
+Cet élément implémente l'interface [`SVGAltGlyphDefElement`](/fr/docs/Web/API/SVGAltGlyphDefElement).
 
 ## Voir aussi
 

@@ -2493,7 +2493,7 @@
     "modified": "2020-07-16T22:35:41.575Z",
     "contributors": ["SphinxKnight"]
   },
-  "Learn/Common_questions/Tools_and_setup/Using_Github_pages": {
+  "Learn/Common_questions/Tools_and_setup/Using_GitHub_pages": {
     "modified": "2020-07-16T22:35:51.735Z",
     "contributors": ["tonybengue", "SphinxKnight"]
   },
@@ -19773,10 +19773,6 @@
       "laparn"
     ]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2020-10-15T21:23:12.907Z",
-    "contributors": ["SphinxKnight", "tregagnon"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2020-10-15T21:23:17.179Z",
     "contributors": ["SphinxKnight", "sp00m", "tregagnon"]
@@ -19852,17 +19848,9 @@
     "modified": "2020-10-15T21:23:20.744Z",
     "contributors": ["SphinxKnight", "PhilippeV", "marie-ototoi", "tregagnon"]
   },
-  "Web/HTML/Element/bgsound": {
-    "modified": "2020-10-15T21:23:34.219Z",
-    "contributors": ["SphinxKnight", "tregagnon"]
-  },
   "Web/HTML/Element/big": {
     "modified": "2020-10-15T21:23:57.237Z",
     "contributors": ["SphinxKnight", "Daniel005", "Goofy", "tregagnon"]
-  },
-  "Web/HTML/Element/blink": {
-    "modified": "2020-10-15T21:23:48.718Z",
-    "contributors": ["SphinxKnight", "teoli", "cgrimal", "tregagnon"]
   },
   "Web/HTML/Element/blockquote": {
     "modified": "2020-10-15T21:20:42.040Z",
@@ -20359,16 +20347,6 @@
       "tregagnon"
     ]
   },
-  "Web/HTML/Element/keygen": {
-    "modified": "2020-10-15T21:14:21.658Z",
-    "contributors": [
-      "SphinxKnight",
-      "marie-ototoi",
-      "msherefel",
-      "tregagnon",
-      "teoli"
-    ]
-  },
   "Web/HTML/Element/label": {
     "modified": "2020-10-15T21:14:20.293Z",
     "contributors": [
@@ -20634,10 +20612,6 @@
       "tregagnon",
       "mekal"
     ]
-  },
-  "Web/HTML/Element/spacer": {
-    "modified": "2020-10-15T21:24:00.250Z",
-    "contributors": ["SphinxKnight", "tregagnon"]
   },
   "Web/HTML/Element/span": {
     "modified": "2020-10-15T21:23:30.889Z",
@@ -26578,18 +26552,6 @@
       "Barbrousse"
     ]
   },
-  "Web/SVG/Element/altGlyph": {
-    "modified": "2019-03-18T21:15:56.588Z",
-    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
-  },
-  "Web/SVG/Element/altGlyphDef": {
-    "modified": "2019-03-23T23:04:57.212Z",
-    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
-  },
-  "Web/SVG/Element/altGlyphItem": {
-    "modified": "2019-03-23T23:04:57.962Z",
-    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
-  },
   "Web/SVG/Element/animate": {
     "modified": "2020-10-15T21:31:45.459Z",
     "contributors": [
@@ -27759,5 +27721,43 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Web/HTML/Element/audio": {
+    "modified": "2020-10-15T21:23:34.219Z",
+    "contributors": ["SphinxKnight", "tregagnon"]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2020-10-15T21:23:12.907Z",
+    "contributors": ["SphinxKnight", "tregagnon"]
+  },
+  "orphaned/Web/HTML/Element/blink": {
+    "modified": "2020-10-15T21:23:48.718Z",
+    "contributors": ["SphinxKnight", "teoli", "cgrimal", "tregagnon"]
+  },
+  "orphaned/Web/HTML/Element/keygen": {
+    "modified": "2020-10-15T21:14:21.658Z",
+    "contributors": [
+      "SphinxKnight",
+      "marie-ototoi",
+      "msherefel",
+      "tregagnon",
+      "teoli"
+    ]
+  },
+  "orphaned/Web/HTML/Element/spacer": {
+    "modified": "2020-10-15T21:24:00.250Z",
+    "contributors": ["SphinxKnight", "tregagnon"]
+  },
+  "orphaned/Web/SVG/Element/altGlyph": {
+    "modified": "2019-03-18T21:15:56.588Z",
+    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
+  },
+  "orphaned/Web/SVG/Element/altGlyphDef": {
+    "modified": "2019-03-23T23:04:57.212Z",
+    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
+  },
+  "orphaned/Web/SVG/Element/altGlyphItem": {
+    "modified": "2019-03-23T23:04:57.962Z",
+    "contributors": ["Sebastianz", "SphinxKnight", "Barbrousse"]
   }
 }

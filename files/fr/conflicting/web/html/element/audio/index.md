@@ -1,6 +1,6 @@
 ---
-title: '<bgsound> : l''élément d''arrière-plan sonore'
-slug: Web/HTML/Element/bgsound
+title: "<bgsound> : l'élément d'arrière-plan sonore"
+slug: conflicting/Web/HTML/Element/audio
 tags:
   - Audio
   - Background Sound
@@ -12,6 +12,7 @@ tags:
   - Reference
   - Web
 translation_of: Web/HTML/Element/bgsound
+original_slug: Web/HTML/Element/bgsound
 browser-compat: html.elements.bgsound
 ---
 

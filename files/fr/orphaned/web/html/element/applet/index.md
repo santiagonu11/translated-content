@@ -1,6 +1,6 @@
 ---
-title: '<applet> : l''élément d''applet Java embarqué'
-slug: Web/HTML/Element/applet
+title: "<applet> : l'élément d'applet Java embarqué"
+slug: orphaned/Web/HTML/Element/applet
 tags:
   - Element
   - HTML
@@ -10,6 +10,7 @@ tags:
   - Web
   - applet
 translation_of: Web/HTML/Element/applet
+original_slug: Web/HTML/Element/applet
 ---
 
 {{HTMLSidebar}}

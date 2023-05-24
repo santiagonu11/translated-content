@@ -1,6 +1,6 @@
 ---
-title: '<blink> : l''élément de texte clignotant'
-slug: Web/HTML/Element/blink
+title: "<blink> : l'élément de texte clignotant"
+slug: orphaned/Web/HTML/Element/blink
 tags:
   - Blink
   - Element
@@ -9,6 +9,7 @@ tags:
   - Reference
   - Web
 translation_of: Web/HTML/Element/blink
+original_slug: Web/HTML/Element/blink
 browser-compat: html.elements.blink
 ---
 

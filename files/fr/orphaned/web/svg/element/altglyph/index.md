@@ -1,11 +1,12 @@
 ---
 title: altGlyph
-slug: Web/SVG/Element/altGlyph
+slug: orphaned/Web/SVG/Element/altGlyph
 tags:
   - Element
   - Reference
   - SVG
 translation_of: Web/SVG/Element/altGlyph
+original_slug: Web/SVG/Element/altGlyph
 ---
 
 {{SVGRef}}{{deprecated_header}}
