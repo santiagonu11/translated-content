@@ -1,7 +1,9 @@
 ---
 title: <altGlyph>
-slug: Web/SVG/Element/altGlyph
+slug: orphaned/Web/SVG/Element/altGlyph
+original_slug: Web/SVG/Element/altGlyph
 ---
+
 {{SVGRef}}{{deprecated_header}}
 
 `altGlyph` 엘리먼트는 하위 문자 데이타를 랜더링 하기 위해 사용되는 매우복잡한 상형문자의 섹션을 허용한다.

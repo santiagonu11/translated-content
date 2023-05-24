@@ -6247,10 +6247,6 @@
     "modified": "2020-10-15T21:35:31.224Z",
     "contributors": ["alattalatta", "azunyan3"]
   },
-  "Web/HTML/Element/applet": {
-    "modified": "2019-03-23T22:50:49.180Z",
-    "contributors": ["Basix"]
-  },
   "Web/HTML/Element/area": {
     "modified": "2020-10-15T21:36:14.537Z",
     "contributors": ["alattalatta", "azunyan3"]
@@ -10313,10 +10309,6 @@
     "modified": "2020-10-15T21:40:12.249Z",
     "contributors": ["alattalatta", "Sebastianz", "dewey94esb"]
   },
-  "Web/SVG/Element/altGlyph": {
-    "modified": "2020-10-15T21:40:13.413Z",
-    "contributors": ["alattalatta", "Sebastianz", "dewey94esb"]
-  },
   "Web/SVG/Element/circle": {
     "modified": "2020-10-15T21:40:18.375Z",
     "contributors": ["alattalatta", "wbamberg", "Sebastianz", "dewey94esb"]
@@ -10866,5 +10858,13 @@
   "conflicting/Web/JavaScript/Reference/Errors/Deprecated_octal": {
     "modified": "2020-03-12T19:44:24.834Z",
     "contributors": ["magnoliaa"]
+  },
+  "orphaned/Web/HTML/Element/applet": {
+    "modified": "2019-03-23T22:50:49.180Z",
+    "contributors": ["Basix"]
+  },
+  "orphaned/Web/SVG/Element/altGlyph": {
+    "modified": "2020-10-15T21:40:13.413Z",
+    "contributors": ["alattalatta", "Sebastianz", "dewey94esb"]
   }
 }
